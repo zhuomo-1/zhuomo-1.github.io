@@ -15,7 +15,7 @@ Research Interests
 - **Robust learning**: long-tailed distribution, few-shot learning, continual learning.
 - **Computer vision**: object detection, visual pattern discovery.
 
-<div style="background:#f4f6fa; border-left:3px solid #5dade2; padding:10px 14px; margin:1.2em 0; border-radius:4px; font-size:0.92em;">
+<div style="background:rgba(93,173,226,0.10); border-left:3px solid #5dade2; padding:10px 14px; margin:1.2em 0; border-radius:4px; font-size:0.92em; color:inherit;">
 🎨 <strong>Preview:</strong> <a href="/files/Bestiary-Engine.html"><strong>Bestiary-Engine · Creatures Generation v1</strong></a> — an early gallery from my ongoing work on <em>structured 3D multimodal benchmarks built from an explicit graph grammar</em>.
 </div>
 
