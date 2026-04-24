@@ -77,3 +77,9 @@ Off the Clock
 - <i class="fas fa-basketball" aria-hidden="true"></i>&nbsp; San Antonio Spurs fan — *Go Spurs Go!*
 - <i class="fas fa-utensils" aria-hidden="true"></i>&nbsp; The best chef in my family (unanimously)
 - <i class="fas fa-bowl-food" aria-hidden="true"></i>&nbsp; Unheralded food connoisseur (taste matters in research)
+
+<div style="margin-top:3em; text-align:center; color:#888; font-size:0.8em; opacity:0.75;">
+<script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<span id="busuanzi_container_site_pv" style="display:none"><span id="busuanzi_value_site_pv"></span> visits</span>
+<span id="busuanzi_container_site_uv" style="display:none"> · <span id="busuanzi_value_site_uv"></span> unique visitors</span>
+</div>
