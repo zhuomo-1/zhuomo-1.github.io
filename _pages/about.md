@@ -55,7 +55,7 @@ Zhiyuan Liu, Jian Zhang, <u><strong>Haoyu Wang</strong></u>, Boxun Xu, Chuyuan Z
 <p class="pub-entry">
 <strong>Few-Shot Continual Prohibited Object Detection in X-Ray Security Inspection</strong><br>
 <u><strong>Haoyu Wang</strong></u>, Zixiang Li, Wei Wang, Yao Zhao<br>
-<em>Under review at European Conference on Computer Vision, ECCV 2026</em>
+<em>Under review at Advances in Neural Information Processing Systems, NeurIPS 2026</em>
 </p>
 
 <p class="pub-entry">

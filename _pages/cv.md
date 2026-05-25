@@ -32,7 +32,7 @@ Publications
 
 Projects
 ======
-* **Algorithm research on real-world X-ray prohibited-item detection.** Prior-aware debiasing for severe head/tail class imbalance; few-shot continual learning for emerging object categories without catastrophic forgetting. Outputs: first-authored manuscripts under review at IEEE TIFS and ECCV 2026.
+* **Algorithm research on real-world X-ray prohibited-item detection.** Prior-aware debiasing for severe head/tail class imbalance; few-shot continual learning for emerging object categories without catastrophic forgetting. Outputs: first-authored manuscripts under review at IEEE TIFS and NeurIPS 2026.
 
 Honours & Awards
 ======
