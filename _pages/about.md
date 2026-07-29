@@ -55,12 +55,6 @@ Zhiyuan Liu, Jian Zhang, <u><strong>Haoyu Wang</strong></u>, Boxun Xu, Chuyuan Z
 <p class="pub-cat">Under review</p>
 
 <p class="pub-entry">
-<strong>Few-Shot Continual Prohibited Object Detection in X-Ray Security Inspection</strong><br>
-<u><strong>Haoyu Wang</strong></u>, Zixiang Li, Wei Wang, Yao Zhao<br>
-<em>Under review at Advances in Neural Information Processing Systems, NeurIPS 2026</em>
-</p>
-
-<p class="pub-entry">
 <strong>PAD-F: Prior-Aware Debiasing Framework for Long-Tailed X-ray Prohibited Item Detection</strong><br>
 <u><strong>Haoyu Wang</strong></u>*, Renshuai Tao*, Wei Wang, Yunchao Wei<br>
 <em>Under review at IEEE Transactions on Information Forensics and Security (TIFS)</em> <span style="font-size: 0.85em;">(* equal contribution)</span>
