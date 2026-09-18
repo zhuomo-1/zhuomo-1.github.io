@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am **Haoyu Wang (王浩宇)**, a final-year M.S. student at the [School of Computer Science and Technology](https://scst.bjtu.edu.cn/), [Beijing Jiaotong University (BJTU)](https://en.bjtu.edu.cn/), graduating in June 2026. Before BJTU, I obtained my B.Eng. in Robotics Engineering from Guilin University of Electronic Technology (GUET) in 2023. I am currently applying for a PhD starting in Fall 2026.
+I am **Haoyu Wang (王浩宇)**, a final-year M.S. student at the [School of Computer Science and Technology](https://scst.bjtu.edu.cn/), [Beijing Jiaotong University (BJTU)](https://en.bjtu.edu.cn/), graduating in June 2026. Before BJTU, I obtained my B.Eng. in Robotics Engineering from Guilin University of Electronic Technology (GUET) in 2023. I am currently applying for a PhD position.
 
 Research Interests
 ======
@@ -56,8 +56,8 @@ Zhiyuan Liu, Jian Zhang, <u><strong>Haoyu Wang</strong></u>, Boxun Xu, Chuyuan Z
 
 <p class="pub-entry">
 <strong>PAD-F: Prior-Aware Debiasing Framework for Long-Tailed X-ray Prohibited Item Detection</strong><br>
-<u><strong>Haoyu Wang</strong></u>*, Renshuai Tao*, Wei Wang, Yunchao Wei<br>
-<em>Under review at IEEE Transactions on Information Forensics and Security (TIFS)</em> <span style="font-size: 0.85em;">(* equal contribution)</span>
+<u><strong>Haoyu Wang</strong></u>*, Renshuai Tao*, Wei Wang, Yunchao Wei, Yao Zhao<br>
+<em>Major revision at IEEE Transactions on Information Forensics and Security (TIFS)</em> <span style="font-size: 0.85em;">(* equal contribution)</span>
 </p>
 
 Community Service
