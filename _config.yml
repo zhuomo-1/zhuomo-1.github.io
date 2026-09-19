@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Haoyu Wang"
 title_separator          : "-"
 name                     : &name "Haoyu Wang"
-description              : &description "Haoyu Wang — M.S. student at Beijing Jiaotong University. Research on neurosymbolic AI, generative models, and robust visual perception."
+description              : &description "Haoyu Wang — M.S. from Beijing Jiaotong University. Research on neurosymbolic AI, generative models, and robust visual perception."
 url                      : https://zhuomo-1.github.io
 baseurl                  : ""
 repository               : "zhuomo-1/zhuomo-1.github.io"

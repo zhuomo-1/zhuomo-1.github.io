@@ -13,7 +13,7 @@ A PDF version of my CV is available [here](/files/cv_haoyu_wang.pdf).
 
 Education
 ======
-* **M.S. in Electronic Information Technology**, Beijing Jiaotong University (BJTU), Sept. 2023 – Jun. 2026 (expected)
+* **M.S. in Electronic Information Technology**, Beijing Jiaotong University (BJTU), Sept. 2023 – Jun. 2026
   * School of Computer Science and Technology
 * **B.Eng. in Robotics Engineering**, Guilin University of Electronic Technology (GUET), Sept. 2019 – Jun. 2023
   * School of Artificial Intelligence

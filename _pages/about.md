@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am **Haoyu Wang (王浩宇)**, a final-year M.S. student at the [School of Computer Science and Technology](https://scst.bjtu.edu.cn/), [Beijing Jiaotong University (BJTU)](https://en.bjtu.edu.cn/), graduating in June 2026. Before BJTU, I obtained my B.Eng. in Robotics Engineering from Guilin University of Electronic Technology (GUET) in 2023. I am currently applying for a PhD position.
+I am **Haoyu Wang (王浩宇)**. I received my M.S. from the [School of Computer Science and Technology](https://scst.bjtu.edu.cn/), [Beijing Jiaotong University (BJTU)](https://en.bjtu.edu.cn/) in June 2026. Before BJTU, I obtained my B.Eng. in Robotics Engineering from Guilin University of Electronic Technology (GUET) in 2023. I am currently applying for a PhD position.
 
 Research Interests
 ======
