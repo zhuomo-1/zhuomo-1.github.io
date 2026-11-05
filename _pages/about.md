@@ -11,6 +11,7 @@ I am **Haoyu Wang (王浩宇)**. I received my M.S. from the [School of Computer
 
 Research Interests
 ======
+- **Agentic systems**: agent benchmarks and evaluation, agent memory, inductive reasoning.
 - **Interpretable AI**: NeSy AI, causal discovery, representation learning, concept learning.
 - **Robust learning**: long-tailed distribution, few-shot learning, continual learning.
 - **Computer vision**: object detection, visual pattern discovery.
@@ -29,17 +30,9 @@ Selected Papers
 </style>
 
 <p class="pub-entry">
-<strong>Dual-view X-ray Detection: Can AI Detect Prohibited Items from Dual-view X-ray Images like Humans?</strong><br>
-Renshuai Tao, <u><strong>Haoyu Wang</strong></u>, Yuzhe Guo, Hairong Chen, Li Zhang, Xianglong Liu, Yunchao Wei, Yao Zhao<br>
-<em>IEEE/CVF Conference on Computer Vision and Pattern Recognition, CVPR 2025</em><br>
-<span style="font-size: 0.88em;"><a href="https://openaccess.thecvf.com/content/CVPR2025/html/Tao_Dual-view_X-ray_Detection_Can_AI_Detect_Prohibited_Items_from_Dual-view_CVPR_2025_paper.html">[Paper]</a> · <a href="https://github.com/rstao-bjtu/LDXray">[Code]</a></span>
-</p>
-
-<p class="pub-entry">
-<strong>DCI: Dual-Conditional Inversion for Boosting Diffusion-Based Image Editing</strong><br>
-Zixiang Li, <u><strong>Haoyu Wang</strong></u>, Wei Wang, Chuangchuang Tan, Yunchao Wei, Yao Zhao<br>
-<em>Advances in Neural Information Processing Systems, NeurIPS 2025</em><br>
-<span style="font-size: 0.88em;"><a href="https://neurips.cc/virtual/2025/loc/san-diego/poster/118739">[Paper]</a> · <a href="https://github.com/Lzxhh/Dual-Conditional-Inversion">[Code]</a></span>
+<strong>PAD-F: Prior-Aware Debiasing Framework for Long-Tailed X-ray Prohibited Item Detection</strong><br>
+<u><strong>Haoyu Wang</strong></u>, Renshuai Tao, Wei Wang, Yunchao Wei, Yao Zhao<br>
+<em>IEEE Transactions on Information Forensics and Security, TIFS 2026</em>
 </p>
 
 <p class="pub-entry">
@@ -50,9 +43,17 @@ Zhiyuan Liu, Jian Zhang, <u><strong>Haoyu Wang</strong></u>, Boxun Xu, Chuyuan Z
 </p>
 
 <p class="pub-entry">
-<strong>PAD-F: Prior-Aware Debiasing Framework for Long-Tailed X-ray Prohibited Item Detection</strong><br>
-<u><strong>Haoyu Wang</strong></u>, Renshuai Tao, Wei Wang, Yunchao Wei, Yao Zhao<br>
-<em>IEEE Transactions on Information Forensics and Security, TIFS 2026</em>
+<strong>DCI: Dual-Conditional Inversion for Boosting Diffusion-Based Image Editing</strong><br>
+Zixiang Li, <u><strong>Haoyu Wang</strong></u>, Wei Wang, Chuangchuang Tan, Yunchao Wei, Yao Zhao<br>
+<em>Advances in Neural Information Processing Systems, NeurIPS 2025</em><br>
+<span style="font-size: 0.88em;"><a href="https://neurips.cc/virtual/2025/loc/san-diego/poster/118739">[Paper]</a> · <a href="https://github.com/Lzxhh/Dual-Conditional-Inversion">[Code]</a></span>
+</p>
+
+<p class="pub-entry">
+<strong>Dual-view X-ray Detection: Can AI Detect Prohibited Items from Dual-view X-ray Images like Humans?</strong><br>
+Renshuai Tao, <u><strong>Haoyu Wang</strong></u>, Yuzhe Guo, Hairong Chen, Li Zhang, Xianglong Liu, Yunchao Wei, Yao Zhao<br>
+<em>IEEE/CVF Conference on Computer Vision and Pattern Recognition, CVPR 2025</em><br>
+<span style="font-size: 0.88em;"><a href="https://openaccess.thecvf.com/content/CVPR2025/html/Tao_Dual-view_X-ray_Detection_Can_AI_Detect_Prohibited_Items_from_Dual-view_CVPR_2025_paper.html">[Paper]</a> · <a href="https://github.com/rstao-bjtu/LDXray">[Code]</a></span>
 </p>
 
 Community Service
