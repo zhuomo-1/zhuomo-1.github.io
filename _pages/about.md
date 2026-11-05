@@ -25,11 +25,8 @@ Selected Papers
 ======
 
 <style>
-.pub-cat   { margin: 0.9em 0 0.15em 0; font-weight: bold; }
 .pub-entry { margin: 0 0 0.55em 0; line-height: 1.45; }
 </style>
-
-<p class="pub-cat">Published</p>
 
 <p class="pub-entry">
 <strong>Dual-view X-ray Detection: Can AI Detect Prohibited Items from Dual-view X-ray Images like Humans?</strong><br>
@@ -52,12 +49,10 @@ Zhiyuan Liu, Jian Zhang, <u><strong>Haoyu Wang</strong></u>, Boxun Xu, Chuyuan Z
 <span style="font-size: 0.88em;"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/39579">[Paper]</a> · <a href="#">[Code]</a></span>
 </p>
 
-<p class="pub-cat">Under review</p>
-
 <p class="pub-entry">
 <strong>PAD-F: Prior-Aware Debiasing Framework for Long-Tailed X-ray Prohibited Item Detection</strong><br>
-<u><strong>Haoyu Wang</strong></u>*, Renshuai Tao*, Wei Wang, Yunchao Wei, Yao Zhao<br>
-<em>Major revision at IEEE Transactions on Information Forensics and Security (TIFS)</em> <span style="font-size: 0.85em;">(* equal contribution)</span>
+<u><strong>Haoyu Wang</strong></u>, Renshuai Tao, Wei Wang, Yunchao Wei, Yao Zhao<br>
+<em>IEEE Transactions on Information Forensics and Security, TIFS 2026</em>
 </p>
 
 Community Service
