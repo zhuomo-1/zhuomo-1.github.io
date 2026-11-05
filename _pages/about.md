@@ -58,7 +58,7 @@ Renshuai Tao, <u><strong>Haoyu Wang</strong></u>, Yuzhe Guo, Hairong Chen, Li Zh
 
 Community Service
 ======
-- **Conference reviewer:** AAAI, ICME, ICPR
+- **Conference reviewer:** NeurIPS, AAAI, ICME, ICPR
 - **Journal reviewer:** IEEE Transactions on Multimedia (TMM)
 
 Off the Clock
